@@ -54,11 +54,6 @@ scanner ou **showMessageDialog**.
 Construir a seguinte hierarquia
 
 
-
-
-
-**Questão 2 – Folha de Pagamento**
-
 **1- Objetivo:** cadastrar os funcionários de uma empresa e calcular os proventos
 
 devidos a cada um deles por mês de trabalho.
@@ -80,10 +75,6 @@ comissionados.
 produção e que recebem determinando valor por unidade produzida.
 
 
-
-
-
-**Questão 2 – Folha de Pagamento**
 
 **3-** Criar o construtor, os métodos Set e Get de cada classe.
 
@@ -107,8 +98,6 @@ comissionado. Mostrar o respectivo
 
 
 
-**Questão 3 – Veículo**
-
 **Classe Veiculo.java**
 
 **Construtor Veiculo()**
@@ -125,7 +114,6 @@ Produzir uma mensagem gráfica, conforme imagem
 
 
 
-**Questão 3 – Veículo**
 
 **Classe Onibus.java**
 
@@ -143,7 +131,7 @@ Produzir uma mensagem gráfica, conforme imagem
 
 
 
-**Questão 3 – Veículo**
+
 
 **Classe Caminhao.java**
 
@@ -157,11 +145,6 @@ Complementar com a inicialização do atributo assentos
 
 Produzir separadamente as duas mensagens gráfica, conforme imagem
 
-
-
-
-
-**Questão 3 – Veículo**
 
 **Main**
 
@@ -180,12 +163,6 @@ Solicite os dados pelo teclado e utilize o construtor
 alternativo.
 
 Execute o método exibirDados()
-
-
-
-
-
-**Questão 3 – Veículo**
 
 Faça as seguintes transformações na classe
 
